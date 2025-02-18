@@ -35,4 +35,4 @@ int main() {
     binaryToHex(binary);
 
     return 0;
-}
+ }
